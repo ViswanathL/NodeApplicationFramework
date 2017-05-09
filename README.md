@@ -31,3 +31,14 @@ Base Node JS framework in Express using complete stack
 API Docs are prepared using annotations.All API's should be annoted as specified in
 
 http://apidocjs.com/
+
+
+**For building the application**
+
+Install dependencies
+
+  **yarn install
+
+To run
+
+  **node server.js

@@ -1,0 +1,41 @@
+{
+    "env": {
+        "es6": true,
+        "node": true
+    },
+    "root": true,
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "sourceType": "module"
+    },
+    "rules": {
+        "indent": [
+            "off",
+            "tab"
+        ],
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "no-unused-var": [
+            "off"
+        ],
+        "no-mixed-spaces-and-tabs": [
+            "off"
+        ],
+        "linebreak-style": [
+            "off"
+        ],
+        "no-console": [
+            "warn"
+        ]
+    }
+}

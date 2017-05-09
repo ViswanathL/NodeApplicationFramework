@@ -1,0 +1,44 @@
+{
+  "name": "express-validation-frame-work",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "cluster": "^0.7.7",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "dotenv": "^4.0.0",
+    "ejs": "~2.5.5",
+    "express": "~4.14.1",
+    "express-validator": "^3.1.2",
+    "express-winston": "2.2.0",
+    "helmet": "^3.4.0",
+    "mongoose": "^4.8.4",
+    "morgan": "~1.7.0",
+    "promise": "^7.1.1",
+    "rand-token": "^0.3.0",
+    "serve-favicon": "~2.3.2",
+    "winston": "^2.3.1",
+    "winston-daily-rotate-file": "^1.4.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "eslint": "3.16.0",
+    "grunt": "1.0.1",
+    "grunt-apidoc": "0.11.0",
+    "grunt-contrib-clean": "1.0.0",
+    "grunt-contrib-concat": "1.0.1",
+    "grunt-contrib-cssmin": "2.0.0",
+    "grunt-contrib-uglify": "2.1.0",
+    "grunt-contrib-watch": "1.0.0",
+    "grunt-eslint": "19.0.0",
+    "load-grunt-tasks": "3.5.2",
+    "mocha": "3.2.0",
+    "nyc": "^10.1.2",
+    "tape": "4.6.3"
+  }
+}

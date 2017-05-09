@@ -37,8 +37,8 @@ http://apidocjs.com/
 
 Install dependencies
 
-  **yarn install
+  **yarn install**
 
 To run
 
-  **node server.js
+  **node server.js**
